@@ -1,5 +1,5 @@
-# Hello I'm Ace Spades👋
-<h1>💻 Junior Developer | 🎓 Student | 🚀 Learning & Building</h1>
+<head># Hello I'm Ace Spades👋</head>
+<body><h1>💻 Junior Developer | 🎓 Student | 🚀 Learning & Building</h1>
 <p>
 👨‍💻 About Me
 🎓 I’m a student interested in software development
@@ -7,11 +7,11 @@
 🛠 Working on personal projects and improving my coding skills
 📚 Always learning new technologies
 🎯 Goal: Become a professional software engineer
-🧰 Tech Stack
-🌐 Connect with Me
+🧰 Tech Stack</p></body>
+<foot>🌐 Connect with Me
 💼 LinkedIn: ...
 🐦 Twitter/X: https://x.com/Ac_e_spades
-📧 Email: 1Ace1384@gmail.com</p>
+📧 Email: 1Ace1384@gmail.com</foot>
 <!--
 **Ace-spades-dev/Ace-spades-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
