@@ -7,7 +7,11 @@
 🛠 Working on personal projects and improving my coding skills
 📚 Always learning new technologies
 🎯 Goal: Become a professional software engineer
-🧰 Tech Stack</p>
+🧰 Tech Stack
+🌐 Connect with Me
+💼 LinkedIn: ...
+🐦 Twitter/X: https://x.com/Ac_e_spades
+📧 Email: 1Ace1384@gmail.com</p>
 <!--
 **Ace-spades-dev/Ace-spades-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
