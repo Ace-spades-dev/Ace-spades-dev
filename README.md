@@ -7,9 +7,9 @@
 <li>📚 Always learning new technologies</li>
 <li>🎯 Goal: Become a professional software engineer</ul></body></li>
 <foot><p>🌐 Connect with Me</p>
-💼 <strong>LinkedIn:</strong> ...
-🐦 <Strong>Twitter/X:</Strong> https://x.com/Ac_e_spades
-📧 <strong>Email:</strong> 1Ace1384@gmail.com</foot>
+<ol><li>💼 <strong>LinkedIn:</strong> ...</li>
+<li>🐦 <Strong>Twitter/X:</Strong> https://x.com/Ac_e_spades</li>
+<li>📧 <strong>Email:</strong> 1Ace1384@gmail.com</li></ol></foot>
 <!--
 **Ace-spades-dev/Ace-spades-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
